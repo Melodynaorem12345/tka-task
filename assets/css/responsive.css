@@ -1,0 +1,199 @@
+@media only screen and (max-width:575.98px) {
+
+    .main-heading,
+    .section-heading {
+        font-size: 10px
+    }
+}
+
+@media only screen and (min-width:576px) and (max-width:767.98px) {
+
+    .main-heading,
+    .section-heading {
+        font-size: 10px
+    }
+}
+
+@media only screen and (min-width:768px) and (max-width:991.98px) {
+
+    .main-heading,
+    .section-heading {
+        font-size: 10px
+    }
+}
+
+@media only screen and (min-width:992px) and (max-width:1199.98px) {
+
+    .main-heading,
+    .section-heading {
+        font-size: 10px
+    }
+}
+
+@media only screen and (min-width:1200px) and (max-width:1399.98px) {
+
+    .main-heading,
+    .section-heading {
+        font-size: 10px
+    }
+}
+
+@media only screen and (min-width:1400px) {
+    .main-heading span {
+        font-size: 11px
+    }
+
+    .section-heading span {
+        font-size: 10px
+    }
+
+    .section-heading small {
+        font-size: .65em
+    }
+
+    .progress {
+        height: 2px
+    }
+
+    .section-heading {
+        padding: 0 10px 0 10px
+    }
+
+    .section-content {
+        margin-top: 0
+    }
+
+    .section-content ul {
+        padding-left: 8px
+    }
+
+    .section-content ul li {
+        font-size: 8px;
+        cursor: pointer;
+        padding: 5px 0 0
+    }
+
+    .section-content ul li i {
+        margin-right: 5px;
+        font-size: 10px
+    }
+
+    .video-details {
+        margin-top: 10px;
+        padding: 10px
+    }
+
+    .video-details-header-new h4 {
+        font-size: 12px
+    }
+
+    .video-navigation button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        background: none;
+        padding: 2px 8px;
+        border-radius: 3px;
+        cursor: pointer;
+        font-weight: 400;
+        transition: all 0.3s ease;
+        font-size: 9px;
+        margin-right: 0;
+        gap: 4px
+    }
+
+    .video-navigation {
+        display: flex;
+        gap: 5px
+    }
+
+    .video-navigation button i {
+        font-size: 8px
+    }
+
+    .video-info-item {
+        display: flex;
+        flex-direction: column;
+        font-size: 9px;
+        margin-right: 12px
+    }
+
+    .divider:nth-of-type(1) {
+        left: 33px
+    }
+
+    .divider:nth-of-type(2) {
+        left: 67px
+    }
+
+    .divider {
+        position: absolute;
+        height: 15px;
+        width: 1.5px;
+        background: #555;
+        top: 14%;
+        transform: translateY(-50%)
+    }
+
+    .divider:nth-of-type(3) {
+        left: 117px
+    }
+
+    .like-dislike i {
+        font-size: 9px
+    }
+
+    .add-to-watchlist {
+        font-size: 9px
+    }
+
+    .notes-header-new,
+    .chat-header-new {
+        font-size: 9px;
+        margin-bottom: 0
+    }
+
+    .notes {
+        padding: 8px;
+        flex: auto
+    }
+
+    .chat {
+        padding: 8px
+    }
+
+    .before-play-bg {
+        padding: 27px 18px
+    }
+
+    .playground-bg h3 {
+        margin-bottom: 20px
+    }
+
+    .playground-bg {
+        padding: 24px
+    }
+
+    .notes-content {
+        font-size: 8px;
+        margin-bottom: 0
+    }
+
+    .notes-actions i {
+        cursor: pointer;
+        font-size: 10px
+    }
+
+    .chat-content p {
+        margin-bottom: 0;
+        font-size: 8px
+    }
+
+    .sidebar {
+        height: 390px
+    }
+
+    .playground-toggle {
+        left: 415px
+    }
+}
